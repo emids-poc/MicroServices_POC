@@ -1,4 +1,4 @@
-# ETCMeetup11_MicroServices
+# MicroServices
 ETC Meetup micro-services with Kafta 
 
 Configuration Steps :
